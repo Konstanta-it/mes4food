@@ -1,0 +1,10 @@
+title: Обмен данными с OPC/SCADA
+arrange:
+    - index.md
+    - SystemSetting
+    - SettingDensityStandart.md
+    - MilkReceivingQuality.md
+    - MilkReceivingQuantity.md
+    - AcceptanceAndTransfer.md
+    - ShiftMaster.md
+    - Monitoring.md

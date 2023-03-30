@@ -1,0 +1,9 @@
+title:  Учет сдельной оплаты
+arrange:
+    - DataFilling
+    - SettingRulesForAccountingWork
+    - SettingCostOfWorkOperations
+    - SettingTeamComposition
+    - EarlyLeaveWork
+    - AccountingOfPiecework
+    - CloseWorkShift

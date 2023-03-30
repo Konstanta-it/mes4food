@@ -1,0 +1,5 @@
+title: Учет параметров варки и прессования
+arrange:
+    - readme.md
+    - MakingParametresSensorKiosk
+    - MakingParametresTSD

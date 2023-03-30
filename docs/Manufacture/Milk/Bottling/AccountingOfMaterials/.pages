@@ -1,0 +1,5 @@
+title: Учет упаковочных материалов
+arrange:
+    - readme.md
+    - ReceiptOfMaterials
+    - Inventory

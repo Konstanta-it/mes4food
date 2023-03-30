@@ -1,0 +1,7 @@
+title: Обработка сырья с добавлением рассола, воды, специй
+collapse: false
+arrange:
+    - CreateTaskForAnInjection.md
+    - Injection.md
+    - CreateTaskForAMassaging.md
+    - Massaging.md

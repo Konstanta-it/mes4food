@@ -1,0 +1,9 @@
+title: Карантин
+collapse: false
+arrange:
+    - Quarantine.md
+    - QuarantineSettings.md
+    - QuarantineNomenlatureAnalyses.md
+    - QuarantineAutomaticWithdrawal.md
+    - QuarantineDocuments
+    - QuarantineDuringAccountingOperations.md

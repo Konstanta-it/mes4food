@@ -1,0 +1,5 @@
+title: Контроль результатов смены
+collapse: false
+arrange:
+    - ClosingAShift.md
+    - Reports

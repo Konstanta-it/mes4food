@@ -1,0 +1,10 @@
+title: Учет в маслодельном цехе
+arrange:
+    - AccountingCreamInTheWorkshop
+    - OilSpreadBreakdownTask
+    - AccountingOilWithPackaging
+    - AccountingReleaseMonolith
+    - ButtermilkRelease
+    - LabAnalysis
+    - CloseWorkShift
+    - AccountingSlicingMonolith

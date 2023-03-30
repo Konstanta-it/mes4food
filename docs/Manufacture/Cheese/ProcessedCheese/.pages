@@ -1,0 +1,11 @@
+title: Производство плавленных сыров
+arrange:
+    - DataFilling
+    - AdmissionRaw
+    - PreparationRaw
+    - TaskFormation
+    - BulkIngredients
+    - MixingSet
+    - AccountingProcessedCheese
+    - PackingCoolingTransfer
+    - PackingInPalletsTransferToGP

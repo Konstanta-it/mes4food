@@ -1,0 +1,11 @@
+title: Адресный склад
+collapse: false
+arrange:
+    - AdressWarehouse.md
+    - Paletirovanie.md
+    - Priemka
+    - Peremeshenie
+    - VnutriskladskieOper
+    - Otgruzka
+    - Inventar
+    - Otchot.md

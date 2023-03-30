@@ -1,2 +1,72 @@
-site_name: Руководство пользователя
-site_url: 'https://Konstanta-it.github.io/mes4food/'
+﻿site_name: Руководство пользователя
+site_url: 'https://Konstanta-it.github.io/mes4food'
+
+theme:
+  name: 'material'
+  logo: ''
+  favicon: ''
+  language: ru
+  palette:
+    primary: 'blue'
+    accent: 'white'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+
+  include_search_page: false
+  search_index_only: true
+
+repo_name: 'Konstanta-it/mes4food'
+repo_url: https://github.com/Konstanta-it/mes4food
+
+markdown_extensions:
+    - markdown.extensions.toc:
+        permalink: false
+    - markdown.extensions.admonition
+    - markdown.extensions.attr_list
+    - markdown.extensions.codehilite:
+        linenums: true
+    - pymdownx.arithmatex
+    - pymdownx.betterem:
+        smart_enable: all
+    - pymdownx.caret
+    - pymdownx.critic
+    - pymdownx.details
+    - pymdownx.emoji:
+        emoji_index: !!python/name:pymdownx.emoji.twemoji
+        emoji_generator: !!python/name:pymdownx.emoji.to_svg
+    - pymdownx.inlinehilite
+    - pymdownx.keys
+    - pymdownx.magiclink
+    - pymdownx.mark
+    - pymdownx.smartsymbols
+    - pymdownx.superfences
+    - pymdownx.tasklist:
+        custom_checkbox: false
+    - pymdownx.tilde
+    - markdown.extensions.def_list
+    - markdown.extensions.footnotes
+    - markdown.extensions.meta
+    - pymdownx.snippets:
+        check_paths: true
+    - pymdownx.tabbed
+
+plugins:
+  - search:
+      separator: '[\s\-\.]+'
+      lang:
+        - en
+        - ru
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - awesome-pages:
+      collapse_single_pages: true
+  - minify:
+      minify_html: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: 'https://github.com/Konstanta-it/mes4food'
+extra_css:
+    - assets/css/custom.css

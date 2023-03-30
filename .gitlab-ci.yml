@@ -1,0 +1,25 @@
+image: python:3.9
+
+before_script:
+  - git config --global user.name "Gitlab CI"
+  - git config --global user.email "GitlabCI@standart1c.ru"
+  - pip install -r requirements.txt
+
+pages:
+  stage: deploy
+  script:
+  - mkdocs build -s
+  - mv site public
+  artifacts:
+    paths:
+    - public
+  only:
+  - master
+  - main
+  
+test:
+  stage: test
+  script:
+  - mkdocs build -s
+  only:
+  - merge_requests

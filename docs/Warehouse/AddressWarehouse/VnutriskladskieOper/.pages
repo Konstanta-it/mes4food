@@ -1,0 +1,7 @@
+title: Внутрискладские операции
+collapse: false
+arrange:
+    - PeremNaSklade
+    - Blokirovka
+    - PereschetNaYacheike
+    - ProverkaOstatkov

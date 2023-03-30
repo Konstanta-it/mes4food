@@ -1,0 +1,14 @@
+title: Производство колбасы
+arrange:
+    - PreparationOfSpices.md
+    - CreateTaskForAStandardization.md
+    - Standardization.md
+    - CreateTaskForASet.md
+    - SetOfMeatSets.md
+    - CreateTaskForAMinsedMeat.md
+    - MincedMeat.md
+    - Maturation.md
+    - CreateTaskForAMolding.md
+    - MoldingOnRequest.md
+    - HeatTreatment.md
+    - Cooling.md

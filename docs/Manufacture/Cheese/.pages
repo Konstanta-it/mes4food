@@ -1,0 +1,13 @@
+title: Сырное производство
+collapse: false
+arrange:
+    - CommonInformation
+    - MilkReceiving
+    - SemiHardCheese
+    - ProcessedCheese
+    - AccountingTheDairyWorkshop
+    - DryingWorkshop
+    - CalculationOfPrimeCost
+    - PieceworkAccounting
+    - OPCDataExchange
+    - OperationalPlanning

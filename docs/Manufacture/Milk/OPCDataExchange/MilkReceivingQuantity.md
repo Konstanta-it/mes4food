@@ -1,0 +1,31 @@
+# Приемка молока по количеству с использованием значений датчиков
+
+Если в системе [настроены датчики](SystemSetting/Sensors.md), которые учитывают количество молочного сырья ("Тип данных" Датчика  - Производство), то процесс приемки молока можно упростить путем обращения к этим датчикам.
+
+- Открыть обработку "**Приемка молока по количеству**":
+
+  ![image-1](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-1.png)
+
+- Указать параметры: "**Организация**", "**Рабочий центр**" и установить флаг "**Использовать датчики количества**" :
+
+  ![image-2](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-2.png)
+
+- Добавить датчик в список:
+
+  ![image-3](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-3.png)
+
+- Выбрать документ "**Поступление молочного сырья**":
+
+  ![image-4](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-4.png)
+
+- Нажать на кнопку "**Получить значения**", В открывшейся форме установить флажки в строках для которых нужно получить значения:
+
+  ![image-5](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-5.png)
+
+- Значения, полученные с датчиков можно откорректировать. Для этого нужно нажать на соответствующую иконку, указать "**Значение новое**" и "**Причину корректировки**":
+
+  ![image-6](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-6.png)
+
+- После этого документ "**Поступление молочного сырья**" необходимо записать:
+
+  ![image-7](../../Cheese/OPCDataExchange/MilkReceivingQuantity.assets/image-7.png)

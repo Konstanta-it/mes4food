@@ -1,0 +1,13 @@
+title: Созревание
+arrange:
+    - DataFilling
+    - AccountingLabAnalysisAndCheeseGrade
+    - AccountingRepackingPackages
+    - DefectCheeseOnMaturation
+    - CorrectPlanReadyTime
+    - ReleaseOfRipenedCheeseNoWeighing
+    - RipenedCheeseOutput
+    - AutomationElectricCarDrivers
+    - InventoryInRipeningChambers
+    - CheckWorkShift
+    - AccountingCorrugatedBoxesAndPackagingMaterials

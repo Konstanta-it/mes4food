@@ -1,0 +1,15 @@
+title: Варка сыра
+arrange:
+    - Common
+    - DataFilling
+    - TaskFormation
+    - SetIngredients
+    - Ingredients
+    - ReleaseCheese
+    - ReleaseWhey
+    - ReleaseCheeseCrumb
+    - ParametresCookingAndPressing
+    - AccountingLabAnalysis
+    - ReleaseSourdoughProduction
+    - AccountingSourdoughAndOthers
+    - CheckWorkShift

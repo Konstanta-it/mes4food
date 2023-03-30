@@ -1,0 +1,10 @@
+title:  Сквашивание
+arrange:
+    - DataFilling
+    - TaskForShift
+    - AccountinfOfIngredients
+    - HalfstuffOutput
+    - LaboratoryAnalysis
+    - RoomParametres
+    - CloseWorkShift
+    - AccountingOfMaterials

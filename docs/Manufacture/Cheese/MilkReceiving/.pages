@@ -1,0 +1,10 @@
+title: Приемка сырья
+arrange:
+    - DataFilling
+    - LaboratoryAnalysisOfMilk
+    - AccountRealAmountOfMilk
+    - CalculationCostOfMilk
+    - MonitoringMilkReceiving
+    - ProductionBatch
+    - TransferMilkToSeparation
+    - RegisterResidualOfMilk

@@ -1,0 +1,23 @@
+title: Общая информация
+collapse: false
+arrange:
+    - Licensing.md
+    - Nomenclature.md
+    - KindOfNomenclature.md
+    - РroductCategory.md
+    - NastroikaKnopokNomenklature.md
+    - Organization.md
+    - Contractor.md
+    - Holding.md
+    - Department.md
+    - DeliveryPoint.md
+    - Warehouse.md
+    - WarehouseTopologyGeneration.md
+    - WorkCenter.md
+    - TCD
+    - Container.md
+    - TemplateRoute.md
+    - DocumentsOfIndividuals.md
+    - BarcodeLabels
+    - Versioning.md
+    - BatchSubmissionTemplate.md

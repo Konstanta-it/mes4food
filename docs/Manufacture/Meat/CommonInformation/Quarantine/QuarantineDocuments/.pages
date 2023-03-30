@@ -1,0 +1,5 @@
+title: Документы Карантина
+collapse: false
+arrange:
+    - QuarantinedPremises.md
+    - RemovalFromQuarantine.md

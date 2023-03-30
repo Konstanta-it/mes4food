@@ -1,0 +1,6 @@
+title: Комплектация через весы
+arrange:
+    - readme.md
+    - TaskingMark
+    - WithScanContainer
+    - NoScanContainer

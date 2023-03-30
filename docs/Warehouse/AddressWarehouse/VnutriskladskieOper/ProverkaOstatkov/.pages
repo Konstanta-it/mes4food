@@ -1,0 +1,6 @@
+title: Проверка состава и местонахождения
+collapse: false
+arrange:
+    - NastroikaKnopkiProverkaOstatkov.md
+    - ProverkaOstatkovNaTCD.md
+    - LocationOfPackingLists.md

@@ -1,0 +1,9 @@
+title: Простой склад
+collapse: false
+arrange:
+    - Paletirovanie.md
+    - Priemka
+    - Peremeshenie
+    - Otgruzka
+    - Inventar.md
+    - Otchot.md

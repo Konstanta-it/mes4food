@@ -1,0 +1,7 @@
+title: Формирование шаблонов этикеток
+collapse: false
+arrange:
+    - BarcodeLabels.md
+    - BarcodeLabelsProduct
+    - BarcodeLabelsBox
+    - BarcodeLabelsPallete

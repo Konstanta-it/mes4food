@@ -1,0 +1,9 @@
+title: Посолка и передача на созревание
+arrange:
+    - DataFilling
+    - ParametresInSolicitor
+    - PoolCheeseExtractionAndPacking
+    - AccountingDefectCheese
+    - AccountingLabAnalysis
+    - PackagesAndOthersMaterials
+    - CheckWorkShift

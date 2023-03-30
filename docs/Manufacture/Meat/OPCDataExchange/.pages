@@ -1,0 +1,6 @@
+title: Обмен данными с OPC/SCADA
+arrange:
+    - index.md
+    - SystemSetting
+    - ThermalTreatment.md
+    - Monitoring.md

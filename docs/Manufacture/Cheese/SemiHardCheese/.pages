@@ -1,0 +1,11 @@
+title: Производство полутвердых сыров
+arrange:
+    - Separation
+    - Normalization
+    - CookingCheese
+    - SaltingAndGoToMaturation
+    - Maturation
+    - ContainerWashing.md
+    - MarkedProduction
+    - AccountingSlicingCheese
+    - AnalysisEffectiveProduction

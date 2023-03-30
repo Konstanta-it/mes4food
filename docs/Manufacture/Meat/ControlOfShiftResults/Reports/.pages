@@ -1,0 +1,6 @@
+title: Отчеты
+collapse: false
+arrange:
+    - AnalysisOfLivestock.md
+    - DeboningAnalysis.md
+    - BatchTraceability.md

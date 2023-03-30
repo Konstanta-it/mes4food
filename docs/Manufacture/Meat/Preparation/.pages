@@ -1,0 +1,10 @@
+title: Подготовка сырья
+collapse: false
+arrange:
+    - Unstuffing.md
+    - Freezing.md
+    - Defrosting.md
+    - CreateTaskForAShredding.md
+    - Shredding.md
+    - MixingInMeatProcessingTsd.md
+    - СonsolidationOfBatches.md

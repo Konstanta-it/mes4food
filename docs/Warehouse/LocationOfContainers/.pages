@@ -1,0 +1,9 @@
+title: Учет и местанахождение тары по штрихкоду
+collapse: false
+arrange:
+    - LocationOfContainers.md
+    - SettingsLocation.md
+    - ReceiptContainers.md
+    - MovingContainers.md
+    - ShipmentContainers.md
+    - InventoryContainers.md
