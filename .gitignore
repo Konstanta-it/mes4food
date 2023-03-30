@@ -1,0 +1,15 @@
+DumpFilesIndex.txt
+ConfigDumpInfo.xml
+ParentConfigurations/
+ParentConfigurations.bin
+*.cf
+/.metadata
+/Sonar/temp
+/Tests/build/
+/build/
+/.local/
+/local*
+allure-report/
+/Scripts/packman.conf
+/tmp*
+BuildStatus.log
