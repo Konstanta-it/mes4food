@@ -1,10 +1,11 @@
-title: Интеграция
+﻿title: Интеграция
 collapse: false
 arrange:
     - InfrastructurePreparation.md
     - ConfiguringDataUnloading.md
     - ConfiguringDataLoading.md
     - ObjectMappingInERP.md
-    - ObjectMappingInERP4FOOD.md
+    - ObjectMappingInMES4FOOD.md
     - ObjectsUnloadedFromERP.md
-    - ObjectsUnloadedFromERP4FOOD.md
+    - ObjectsUnloadedFromMES4FOOD.md
+    - CleaningIncomingPackagesJournal.md
