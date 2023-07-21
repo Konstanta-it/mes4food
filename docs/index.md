@@ -23,6 +23,14 @@
 - [Документы физических лиц](CommonInformation/DocumentsOfIndividuals.md)
 - [Этикетки штрихкодов](CommonInformation/BarcodeLabels/BarcodeLabels.md)
 
+<h2> Микробиология </h2>
+
+- [Микробиологический контроль на производстве](Microbiology/readme.md)
+- [НСИ](Microbiology/CommonInformation/readme.md)
+- [Рабочее место руководителя лаборатории](Microbiology/WorkPlaceOfLabHead/WorkPlaceOfLabHead.md)
+- [Рабочее место микробиолога](Microbiology/WorkPlaceOfLab/WorkPlaceOfLab.md)
+- [Контроль исполнения через отчеты](Microbiology/ControlOfConductingLabResearch/readme.md)
+
 <h2> Складская логистика </h2>
 
 <h3> Простой склад </h3>
