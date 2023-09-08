@@ -16,8 +16,6 @@ arrange:
     - WorkCenter.md
     - TCD
     - Container.md
-    - TemplateRoute.md
-    - DocumentsOfIndividuals.md
     - BarcodeLabels
     - Versioning.md
     - BatchSubmissionTemplate.md

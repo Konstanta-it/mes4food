@@ -1,41 +1,32 @@
 # Учет расхода оператором через сенсорный киоск
 
-
 Оператор указывает, сколько какого ингредиента он положил в котел для
 конкретного заквашиваемого полуфабриката.
 
- 
-
- 
-
--   Открыть "Меню учетных точек":  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom.png)
--   Указать текущую дату и смену, если они еще не указаны:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_2.png)
--   Указать учетную точку, отвечающую за участок, где выпускаются полуфабрикаты:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_3.png)
+-   Открыть **"Меню учетных точек"**;
+-   Указать текущую дату и смену, если они еще не указаны;
+-   Указать учетную точку, отвечающую за участок, где выпускаются полуфабрикаты;
 -   Нажать кнопку, соответствующую указанию ингредиентов. Откроется
     задание на текущую смену. Выбрать нужный полуфабрикат и нажать
-    "Ингредиенты":  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_4.png)
+    **"Ингредиенты"**;
 -   По умолчанию таблица заполняется ингредиентами по основной
-    спецификации выбранного ПФ:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_5.png)
--   Если какого-то ингредиента нет в списке, добавить его:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_6.png)  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_7.png)
--   Выбрать первый использованный ингредиент, указать его партию, если по ним ведется учет:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_8.png)  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_9.png)
--   Указать количество ингредиента и нажать "Подтвердить":  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_10.png)
--   Аналогично заполнить остальные ингредиенты. 
--   Указать, из какого танка была получена смесь для полуфабриката:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_11.png)  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_12.png)
--   Указать ее партию:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_13.png)
--   Указать использованное количество смеси:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_14.png)
--   Нажать кнопку сохранения:  
-![](ByOperator.assets/drex_uchet_raskhoda_syrodelom_cherez_sensornyj_kiosk_custom_15.png)
+    спецификации выбранного ПФ:
+
+![](ByOperator.assets/1.gif)
+
+-   Если какого-то ингредиента нет в списке, добавить его по кнопке **"+"**:
+ 
+![](ByOperator.assets/2.gif)  
+
+-   Выбрать первый использованный ингредиент, указать его партию, если по ним ведется учет;
+-   Указать количество ингредиента, добавляемого в котел, и нажать **"Подтвердить"**;
+-   Аналогично заполнить остальные ингредиенты:
+
+![](ByOperator.assets/3.gif)
+
+-   Указать, из какого танка была получена смесь для полуфабриката;
+-   Указать ее партию;
+-   Указать использованное количество смеси;
+-   Нажать **"Подтвердить"**:  
+
+![](ByOperator.assets/4.gif)

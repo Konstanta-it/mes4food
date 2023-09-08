@@ -8,4 +8,3 @@ arrange:
     - ProductionBatch
     - TransferMilkToSeparation
     - RegisterResidualOfMilk
-    - LaboratoryAnalysisRequests

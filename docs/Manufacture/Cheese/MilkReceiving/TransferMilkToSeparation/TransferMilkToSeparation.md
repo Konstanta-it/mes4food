@@ -9,21 +9,14 @@
 получение и обработка данных для передачи молока на следующие операции
 будет происходить без участия человека.
 
-
--   Открыть "Рабочее место мастера смены":  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom.png)  
--   Указать дату смены и смену:  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom_2.png)  
--   Указать участок приемно-аппаратного цеха:  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom_3.png)  
--   Выбрать участок, на котором принимается молоко:  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom_4.png)  
--   Перейти на вкладку "Остатки" -\> "Материалы" (или "Остатки" -\>
-    "Прочее", в зависимости от того, как настроен учет в системе):  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom_5.png)  
+-   Открыть **"Рабочее место мастера смены"**;
+-   Указать дату смены и смену;
+-   Указать участок приемно-аппаратного цеха; 
+-   Выбрать участок, на котором принимается молоко; 
+-   Перейти на вкладку *"Остатки"*; 
 -   Выбрать танк и партию молока, которая будет передаваться и нажать
-    "Переместить":  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom_6.png)  
+    **"Переместить"**; 
 -   Указать, куда будет передано молоко (на сепарацию или нормализацию)
-    и в каком количестве и подтвердить:  
-![](TransferMilkToSeparation.assets/drex_peredacha_moloka_na_separatsiyu_normalizatsiyu_custom_7.png)
+    и в каком количестве и подтвердить:
+
+![](TransferMilkToSeparation.assets/1.gif)

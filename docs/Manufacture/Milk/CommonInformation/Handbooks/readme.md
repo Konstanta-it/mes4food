@@ -1,4 +1,4 @@
-# Содержание
+# НСИ
 
 - [Настройки параметров учета](SettingOfAccounting/SettingOfAccounting.md)
 - [Виды номенклатуры](KindOfNomenclature/KindOfNomenclature.md)

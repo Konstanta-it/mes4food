@@ -6,8 +6,7 @@ arrange:
     - Separation
     - Normalization
     - Fermentation
-    - Bottling
-    - Marking
+    - BottlingWithMarking
     - CalculationOfPrimeCost
     - PieceworkAccounting
     - OPCDataExchange

@@ -5,6 +5,5 @@ arrange:
     - AccountinfOfIngredients
     - HalfstuffOutput
     - LaboratoryAnalysis
-    - RoomParametres
     - CloseWorkShift
     - AccountingOfMaterials

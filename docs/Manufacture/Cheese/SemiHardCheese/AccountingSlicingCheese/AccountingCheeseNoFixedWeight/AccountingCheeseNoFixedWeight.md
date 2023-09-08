@@ -7,33 +7,19 @@
 процедуры паллетирования таких коробов в системе дает и учет выпуска, и
 учет маркировки).
 
- 
-
- 
-
--   Открыть "Меню учетных точек":
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom.png)
-     
--   Указать дату и смену, если они еще не указаны:
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom_2.png)
-     
--   Указать учетную точку, отвечающую за участок, где идет нарезка:
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom_3.png)
-     
+-   Открыть "Меню учетных точек";
+-   Указать дату и смену, если они еще не указаны;
+-   Указать учетную точку, отвечающую за участок, где идет нарезка;
 -   Нажать кнопку, соответствующую набору паллеты. Откроется форма
     наборки.
-
 -   Начать сканирование. После сканирования первого короба в окне
     заполнится информация об его содержимом:
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom_4.png)
-     
--   Отсканировать следующий короб паллеты и далее:
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom_5.png)
-     
--   По кнопке с коробочкой можно посмотреть уже отсканированные короба:
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom_6.png)
-    ![](AccountingCheeseNoFixedWeight.assets/drex_uchet_syra_nefiks_vesa_custom_7.png)
-     
+
+![](AccountingCheeseNoFixedWeight.assets/1.gif)
+
+-   Отсканировать следующий короб паллеты и остальные;
+-   По кнопке **"Состав"** можно посмотреть уже отсканированные короба;
 -   После завершения набора паллеты нажать кнопку сохранения - зеленую
-    кнопку с галочкой.
-     
+    кнопку с галочкой:
+
+![](AccountingCheeseNoFixedWeight.assets/2.gif)

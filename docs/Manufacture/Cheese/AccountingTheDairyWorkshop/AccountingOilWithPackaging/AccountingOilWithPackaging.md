@@ -1,27 +1,14 @@
 # Учет выпуска масла с фасовкой
 
-
--   Открыть "Меню учетных точек":  
-    ![](AccountingOilWithPackaging.assets/drex_uchet_vypuska_masla_s_fasovkoj_custom.png)
-     
--   Указать текущую дату и смену, если они еще не указаны:  
-    ![](AccountingOilWithPackaging.assets/drex_uchet_vypuska_masla_s_fasovkoj_custom_2.png)
-    
+-   Открыть **"Меню учетных точек"**;  
+-   Указать текущую дату и смену, если они еще не указаны;
 -   Указать учетную точку, отвечающую за участок, где происходит
-    сбойка масла/спреда:  
-    ![](AccountingOilWithPackaging.assets/drex_uchet_vypuska_masla_s_fasovkoj_custom_3.png)
-
+    сбойка масла/спреда;
 -   Нажать на кнопку, соответствующую операции выпуска сбойки.  
-    Откроется окно с заданием на указанную смену. Выбрать первую сбойку и нажать "Приступить":  
-    ![](AccountingOilWithPackaging.assets/drex_uchet_vypuska_masla_s_fasovkoj_custom_4.png)
-
--   Указать, куда передается сбойка:  
-    ![](AccountingOilWithPackaging.assets/drex_uchet_vypuska_masla_s_fasovkoj_custom_5.png)
-     
-
--   Указать вес сбойки:  
-    ![](AccountingOilWithPackaging.assets/drex_uchet_vypuska_masla_s_fasovkoj_custom_6.png)
-
-
+    Откроется окно с заданием на указанную смену. Выбрать первую сбойку и нажать **"Приступить"**;
+-   Указать, куда передается сбойка (склад-получатель);
+-   Указать, в какую упаковку фасуется сбойка;
+-   Указать вес получившейся сбойки;
 -   Подтвердить выпуск.
- 
+
+![](AccountingOilWithPackaging.assets/2.gif)

@@ -1,0 +1,8 @@
+title:  Розлив с маркировкой
+arrange:
+    - DataFilling
+    - TaskForShift
+    - ProductionOutput
+    - DefectiveProductionOutput
+    - CloseWorkShift
+    - AccountingOfMaterials

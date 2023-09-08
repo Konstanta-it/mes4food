@@ -1,9 +1,7 @@
 title: Нормализация
 arrange:
     - DataFilling
-    - TypesAndIndicatorsOfAnalyzes
     - TaskForShift
     - NormalizedMilkOutput
     - LaboratoryAnalysis
-    - TransferMilkToCheeseMaker
     - CheckWorkShift

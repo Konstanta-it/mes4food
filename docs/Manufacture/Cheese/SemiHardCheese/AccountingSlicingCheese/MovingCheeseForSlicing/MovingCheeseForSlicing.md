@@ -7,40 +7,22 @@
 электрокаров с использованием ТСД (см.раздел "[Перемещение
 сыра](../../Maturation/AutomationElectricCarDrivers/AccountingTransferCheese/AccountingTransferCheese.md)").
 
- 
-
- 
-
--   Открыть "Меню учетных точек":
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom.png)
-     
--   Указать текущую дату и смену, если они еще не указаны:
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_2.png)
-     
--   Указать учетную точку, которая соответствует участку нарезки сыра:
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_3.png)
-     
+-   Открыть **"Меню учетных точек"**;
+-   Указать текущую дату и смену, если они еще не указаны;
+-   Указать учетную точку, которая соответствует участку нарезки сыра;
 -   Нажать кнопку, соответствующую перемещению сыра. Указать склад, с
-    которого сыр перемещается на нарезку:
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_4.png)
-     
+    которого сыр перемещается на нарезку;
 -   Отобразятся все варки сыра в кг и штуках, которые по учету в системе
     находятся на выбранном складе.
--   Нажать на перемещаемую варку сыра и нажать "Выбрать":
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_5.png)
-     
+-   Нажать на перемещаемую варку сыра и нажать **"Выбрать"**;
 -   В открывшейся форме указать, на какой склад передается варка сыра
-    (если необходимо):
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_6.png)
-     
--   Если к киоску подключены весы, то поставить сыр на весы и нажать
+    (если не указано);
+-   При необходимости перевзвесить сыр. Если к киоску подключены весы, то поставить сыр на весы и нажать
     кнопку получения веса в систему, в противном случае ввести вес
-    вручную:
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_7.png)
-     
--   Указать количество перемещаемых штук сыра:
-    ![](MovingCheeseForSlicing.assets/drex_peremeshchenie_syrya_dlya_narezki_custom_8.png)
-     
+    вручную;
+-   Указать количество перемещаемых штук сыра;
 -   Подтвердить, нажав кнопку с галочкой.
-     
+
+![](MovingCheeseForSlicing.assets/1.gif)
+
 

@@ -1,7 +1,0 @@
-title:  Маркировка
-arrange:
-    - DataFilling
-    - TaskForShift
-    - ProductionOutput
-    - CloseWorkShift
-    - AccountingOfMaterials
