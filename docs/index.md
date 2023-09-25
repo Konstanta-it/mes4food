@@ -374,6 +374,10 @@
 
 - [Микробиологический контроль на производстве](Microbiology/readme.md)
 - [НСИ](Microbiology/CommonInformation/readme.md)
+- [Поступление молочного сырья с учетом показателей лабораторных исследований](Microbiology/MilkRecieving/DataFilling/readme.md)
+    - [Учет поступления молочного сырья по показателям лабораторных (микробиологических исследований)](Microbiology/MilkRecieving/MilkRecievingQuality/MilkRecievingQuality.md)
+    - [Приемка молока по количеству](Microbiology/MilkRecieving/MilkRecievingQuantity/MilkRecievingQuantity.md)
+    - [Расчет стоимости поступившего молока](Microbiology/MilkRecieving/MilkRecievingCost/MilkRecievingCost.md)
 - [Рабочее место руководителя лаборатории](Microbiology/WorkPlaceOfLabHead/WorkPlaceOfLabHead.md)
 - [Рабочее место микробиолога](Microbiology/WorkPlaceOfLab/WorkPlaceOfLab.md)
 - [Контроль исполнения через отчеты](Microbiology/ControlOfConductingLabResearch/readme.md)

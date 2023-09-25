@@ -1,0 +1,7 @@
+title: Поступление молочного сырья с учетом показателей лабораторных исследований
+
+arrange:
+    - DataFilling
+    - MilkRecievingQuality
+    - MilkRecievingQuantity
+    - MilkRecievingCost
