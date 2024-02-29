@@ -1,5 +1,5 @@
 # Заполнение справочников
 
 - [Рабочие центры](WorkCenter/WorkCenter.md)
-- [Рецептуры](ResourceSpecifications/ResourceSpecifications.md)
+- [Ресурсные спецификации](ResourceSpecifications/ResourceSpecifications.md)
 - [Учетные точки](AccountPoints/AccountPoints.md)
