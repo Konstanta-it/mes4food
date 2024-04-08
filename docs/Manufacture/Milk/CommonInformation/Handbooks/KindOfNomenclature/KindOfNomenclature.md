@@ -37,7 +37,7 @@
 
     - Пакет - для пакетов, использующихся при упаковке продукции;  
     - Короб - для коробов, в которые укладывается сыр при
-    [перевзвешивании](../ButtonOfAccountPoint/PackagingWithScales/PackagingWithScales.md);  
+    [перевзвешивании](../../../../../CommonInformation/ButtonOfAccountPoint/PackagingWithScales.md);  
     - Сырье и материалы - для принимаемого сырья (молоко);  
     - Прочее - все остальное;
 

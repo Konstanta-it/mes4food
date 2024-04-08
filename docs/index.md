@@ -145,6 +145,11 @@
     - Упаковка в паллеты и передача на склад ГП
         - [Общая информация](Manufacture/Cheese/ProcessedCheese/PackingInPalletsTransferToGP/PackingInPalletsTransferToGP.md)
         - [Паллетирование коробов](Manufacture/Cheese/ProcessedCheese/PackingInPalletsTransferToGP/PalletizingBoxes/PalletizingBoxes.md)
+- Перемещение сырья
+    - [Настройка кнопки "Перемещение"](Manufacture/Cheese/PalletMoving/SettingAccountingPoint.md)
+    - [Формирование упаковочного листа и перемещение](Manufacture/Cheese/PalletMoving/Moving.md)
+    - [Полное перемещение](Manufacture/Cheese/PalletMoving/FullMoving.md)
+    - [Частичное перемещение без перевзвешивания](Manufacture/Cheese/PalletMoving/PartMoving.md)
 - Учет в маслодельном цехе
     - [Учет поступления сливок в маслоцех](Manufacture/Cheese/AccountingTheDairyWorkshop/AccountingCreamInTheWorkshop/AccountingCreamInTheWorkshop.md)
     - [Задание на сбойку масла/спреда](Manufacture/Cheese/AccountingTheDairyWorkshop/OilSpreadBreakdownTask/OilSpreadBreakdownTask.md)
@@ -308,6 +313,11 @@
     - [Измельчение](Manufacture/Meat/Preparation/Shredding.md)
     - [Смешивание в мясопереработке ТСД](Manufacture/Meat/Preparation/MixingInMeatProcessingTsd.md)
     - [Объединение партий сырья/полуфабрикатов](Manufacture/Meat/Preparation/%D0%A1onsolidationOfBatches.md)
+- Перемещение сырья
+    - [Настройка кнопки "Перемещение"](Manufacture/Meat/PalletMoving/SettingAccountingPoint.md)
+    - [Формирование упаковочного листа и перемещение](Manufacture/Meat/PalletMoving/Moving.md)
+    - [Полное перемещение](Manufacture/Meat/PalletMoving/FullMoving.md)
+    - [Частичное перемещение без перевзвешивания](Manufacture/Meat/PalletMoving/PartMoving.md)
 - Убой
     - [Учет выхода полутуш](Manufacture/Meat/Livestock/HalfCarcassesOut.md)
     - [Учет выхода субпродуктов](Manufacture/Meat/Livestock/OffalOut.md)

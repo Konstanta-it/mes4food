@@ -1,20 +1,5 @@
-# Содержание
-Кнопки учетных точек настраиваются для работы в системе через сенсорные
-киоски, ТСД и подобные устройства.
+# Кнопки учетных точек
 
-**Определение обработки для кнопки**
+Кнопки учетных точек настраиваются для работы в системе через сенсорные киоски, ТСД и подобные устройства.
 
-При открытии списка выбора реквизита "Обработка":
-
-![](readme.assets/1.png)
-
-Параметры обработок описаны в соответствующих разделах.
-
-- [Работа с заданиями](WorkWithTasks/WorkWithTasks.md)
-- [Оперативный учет на рабочем центре](OperationalAccountingOnWorkCenter/OperationalAccountingOnWorkCenter.md)
-- [Работа с заявками на лабораторные анализы](WorkWithLabAnalyzes/WorkWithLabAnalyzes.md)
-- [Работа с заявками на регистрацию показателей складов](WorkWithRequestToRegistrationIndicatorsOfWarehouses/WorkWithRequestToRegistrationIndicatorsOfWarehouses.md)
-- [Комплектация через весы](PackagingWithScales/PackagingWithScales.md)
-- [Терминал сбора данных](DataCollectionTerminal/DataCollectionTerminal.md)
-- [Взвешивание тары](ContainerWeighing/ContainerWeighing.md)
-- [Формирование состава бригады](FormationOfTeamComposition/FormationOfTeamComposition.md)
+Параметры настройки кнопок учетных точек приведены в разделе [Общая информация - Настройка кнопок учетных точек](../../../../../CommonInformation/ButtonOfAccountPoint/readme.md).

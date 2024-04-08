@@ -4,6 +4,7 @@ arrange:
     - CommonInformation
     - AcceptOfSpicesMeatVegetables
     - Preparation
+    - PalletMoving
     - Livestock
     - Boning
     - ProcessingWithoutAdditives

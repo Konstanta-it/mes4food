@@ -6,7 +6,7 @@
 штрихкодов.
 
 По итогу операции формируется документ выпуска сканируемой продукции и
-упаковочный лист - паллета (подробнее см.раздел "[Кнопки учетных точек - ТСД](../../../../CommonInformation/Handbooks/ButtonOfAccountPoint/DataCollectionTerminal/DataCollectionTerminal.md)") .
+упаковочный лист - паллета (подробнее см.раздел "[Кнопки учетных точек - ТСД](../../../../../../CommonInformation/ButtonOfAccountPoint/DataCollectionTerminal.md)") .
 
 -   Открыть **"Меню учетных точек"**;
 -   Указать дату и смену, если они еще не указаны;

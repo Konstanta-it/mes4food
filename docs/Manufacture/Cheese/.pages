@@ -5,6 +5,7 @@ arrange:
     - MilkReceiving
     - SemiHardCheese
     - ProcessedCheese
+    - PalletMoving
     - AccountingTheDairyWorkshop
     - DryingWorkshop
     - CalculationOfPrimeCost

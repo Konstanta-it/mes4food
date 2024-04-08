@@ -19,5 +19,5 @@
     измерения (см. "[Рабочие центры и
     склады](../../CommonInformation/Handbooks/WorkCentresAndWarehouses/WorkCentresAndWarehouses.md)").
 -   Саму настройку учетной точки можно посмотреть в разделе общей НСИ
-    "[ТСД](../../CommonInformation/Handbooks/ButtonOfAccountPoint/DataCollectionTerminal/DataCollectionTerminal.md)".
+    "[ТСД](../../../../CommonInformation/ButtonOfAccountPoint/DataCollectionTerminal.md)".
 

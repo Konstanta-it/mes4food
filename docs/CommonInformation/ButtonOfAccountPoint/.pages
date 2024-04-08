@@ -1,0 +1,12 @@
+title: Настройка кнопок учетных точек
+collapse: true
+arrange:
+    - readme.md
+    - WorkWithTasks.md
+    - OperationalAccountingOnWorkCenter.md
+    - WorkWithLabAnalyzes.md
+    - WorkWithRequestToRegistrationIndicatorsOfWarehouses.md
+    - PackagingWithScales.md
+    - DataCollectionTerminal.md
+    - ContainerWeighing.md
+    - FormationOfTeamComposition.md

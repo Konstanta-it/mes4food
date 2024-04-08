@@ -22,5 +22,5 @@
 ![](DataFilling.assets/1.png)
 
 -   Саму настройку учетной точки можно посмотреть в разделе общей НСИ
-    "[ТСД](../../../CommonInformation/Handbooks/ButtonOfAccountPoint/DataCollectionTerminal/DataCollectionTerminal.md)".
+    "[ТСД](../../../../../CommonInformation/ButtonOfAccountPoint/DataCollectionTerminal.md)".
 
