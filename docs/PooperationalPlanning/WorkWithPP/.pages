@@ -1,0 +1,8 @@
+title: Работа с АРМом "Пооперационное планирование"
+arrange:
+    - Settings.md
+    - ReadRequest.md
+    - NZP
+    - PlanResults.md
+    - CreateWorkTasks.md
+    - FAQ.md

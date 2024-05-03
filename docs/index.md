@@ -193,11 +193,6 @@
     - [Получение значений с датчиков в Приемке и передаче](Manufacture/Cheese/OPCDataExchange/AcceptanceAndTransfer.md)
     - [Получение данных с датчиков в АРМе "Рабочее место мастера смены"](Manufacture/Cheese/OPCDataExchange/ShiftMaster.md)
     - [Мониторинг данных датчиков](Manufacture/Cheese/OPCDataExchange/Monitoring.md)
-- Пооперационное планирование
-    - [Сценарии ППРЦ](Manufacture/Cheese/OperationalPlanning/ScenarioOperationalPlanning.md)
-    - [Кратность партии](Manufacture/Cheese/OperationalPlanning/PartyMultiplicity.md)
-    - [Настройка операций в Этапах производства](Manufacture/Cheese/OperationalPlanning/SettingUpOperations.md)
-    - [Пооперационное планирование](Manufacture/Cheese/OperationalPlanning/OperationalPlanning.md)
 
 <h3> Молочное производство </h3>
 
@@ -283,11 +278,6 @@
     - [Получение значений с датчиков в Приемке и передаче](Manufacture/Milk/OPCDataExchange/AcceptanceAndTransfer.md)
     - [Получение данных с датчиков в АРМе "Рабочее место мастера смены"](Manufacture/Milk/OPCDataExchange/ShiftMaster.md)
     - [Мониторинг данных датчиков](Manufacture/Milk/OPCDataExchange/Monitoring.md)
-- Пооперационное планирование
-    - [Сценарии ППРЦ](Manufacture/Milk/OperationalPlanning/ScenarioOperationalPlanning.md)
-    - [Кратность партии](Manufacture/Milk/OperationalPlanning/PartyMultiplicity.md)
-    - [Настройка операций в Этапах производства](Manufacture/Milk/OperationalPlanning/SettingUpOperations.md)
-    - [Пооперационное планирование](Manufacture/Milk/OperationalPlanning/OperationalPlanning.md)
 
 <h3> Мясное производство </h3>
 
@@ -365,11 +355,6 @@
         - [Анализ участка убоя](Manufacture/Meat/ControlOfShiftResults/Reports/AnalysisOfLivestock.md)
         - [Анализ участка обвалки/разделки](Manufacture/Meat/ControlOfShiftResults/Reports/DeboningAnalysis.md)
         - [Прослеживаемость партий](Manufacture/Meat/ControlOfShiftResults/Reports/BatchTraceability.md)
-- Пооперационное планирование
-    - [Сценарии ППРЦ](Manufacture/Meat/OperationalPlanning/ScenarioOperationalPlanning.md)
-    - [Кратность партии](Manufacture/Meat/OperationalPlanning/PartyMultiplicity.md)
-    - [Настройка операций в Этапах производства](Manufacture/Meat/OperationalPlanning/SettingUpOperations.md)
-    - [Пооперационное планирование](Manufacture/Meat/OperationalPlanning/OperationalPlanning.md)
 - Обмен данными с OPC/SCADA
     - [Общая информация](Manufacture/Meat/OPCDataExchange/index.md)
     - Настройки системы для обмена
@@ -379,6 +364,27 @@
         - [Настройка кнопок учетных точек](Manufacture/Meat/OPCDataExchange/SystemSetting/SettingButtonsOfAccountPoint.md)
     - [Получение значений с датчиков на киоске](Manufacture/Meat/OPCDataExchange/ThermalTreatment.md)
     - [Мониторинг данных датчиков](Manufacture/Meat/OPCDataExchange/Monitoring.md)
+
+<h2> Планирование по рабочим центрам </h2>
+
+- [Планирование по рабочим центрам](PooperationalPlanning/readme.md)
+- НСИ
+    - [Номенклатура](PooperationalPlanning/Handbooks/Nomenclature.md)
+    - [Ресурсные спецификации](PooperationalPlanning/Handbooks/ResourceSpecification.md)
+    - [График работы](PooperationalPlanning/Handbooks/WorkSchedule.md)
+    - [Настройки рабочих центров и видов рабочих центров](PooperationalPlanning/Handbooks/SettingWorkCenter.md)
+    - [Создание заявки на производство](PooperationalPlanning/Handbooks/ProductionRequest.md)
+    - [Сценарии ППРЦ](PooperationalPlanning/Handbooks/PPScenario.md)
+- Работа с АРМом "Пооперационное планирование"
+    - [Настройка АРМа "Пооперационное планирование"](PooperationalPlanning/WorkWithPP/Settings.md)
+    - [Чтение заявки на производство](PooperationalPlanning/WorkWithPP/ReadRequest.md)
+    - Указание НЗП
+        - [Указание НЗП полуфабриката](PooperationalPlanning/WorkWithPP/NZP/NZP_polufabrikat.md)
+        - [Указание НЗП базового продукта](PooperationalPlanning/WorkWithPP/NZP/NZP_bazoviy.md)
+        - [Указание НЗП готовой продукции](PooperationalPlanning/WorkWithPP/NZP/NZP_gotovaya.md)
+    - [Результаты планирования](PooperationalPlanning/WorkWithPP/PlanResults.md)
+    - [Создание производственных заданий](PooperationalPlanning/WorkWithPP/CreateWorkTasks.md)
+    - [Распространенные ошибки при планировании](PooperationalPlanning/WorkWithPP/FAQ.md)
 
 <h2> Микробиология </h2>
 

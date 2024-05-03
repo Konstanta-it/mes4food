@@ -1,7 +1,0 @@
-title: Пооперационное планирование
-collapse: false
-arrange:
-    - ScenarioOperationalPlanning.md
-    - PartyMultiplicity.md
-    - SettingUpOperations.md
-    - OperationalPlanning.md

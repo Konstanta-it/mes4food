@@ -1,0 +1,8 @@
+title: НСИ
+arrange:
+    - Nomenclature.md
+    - ResourceSpecification.md
+    - WorkSchedule.md
+    - SettingWorkCenter.md
+    - ProductionRequest.md
+    - PPScenario.md
