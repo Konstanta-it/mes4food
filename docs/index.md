@@ -14,6 +14,7 @@
 - [Точки доставки](CommonInformation/DeliveryPoint.md)
 - [Склады](CommonInformation/Warehouse.md)
 - [Генерация топологии склада](CommonInformation/WarehouseTopologyGeneration.md)
+- [Виды рабочих центров](CommonInformation/KindOfWorkCenter.md)
 - [Рабочие центры](CommonInformation/WorkCenter.md)
 - [Настройка работы терминала сбора данных](CommonInformation/TCD/TCD.md)
 - [Учетные точки](CommonInformation/TCD/AccountingPoint.md)
@@ -22,6 +23,7 @@
 - [Этикетки штрихкодов](CommonInformation/BarcodeLabels/BarcodeLabels.md)
 - [Версионирование](CommonInformation/Versioning.md)
 - [Шаблон дополнительного представления партии](CommonInformation/BatchSubmissionTemplate.md)
+- [Пользователи](CommonInformation/Users.md)
 
 <h2> Производство </h2>
 

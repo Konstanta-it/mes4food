@@ -13,6 +13,7 @@ arrange:
     - DeliveryPoint.md
     - Warehouse.md
     - WarehouseTopologyGeneration.md
+    - KindOfWorkCenter.md
     - WorkCenter.md
     - ButtonOfAccountPoint
     - TCD
@@ -20,3 +21,4 @@ arrange:
     - BarcodeLabels
     - Versioning.md
     - BatchSubmissionTemplate.md
+    - Users.md
