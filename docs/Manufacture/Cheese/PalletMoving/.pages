@@ -5,3 +5,6 @@ arrange:
     - Moving.md
     - FullMoving.md
     - PartMoving.md
+    - MovingOrder.md
+    - SettingAccountingPointOrder.md
+    - MovingWithOrderKiosk.md

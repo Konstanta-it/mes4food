@@ -167,6 +167,9 @@
     - [Формирование упаковочного листа и перемещение](Manufacture/Cheese/PalletMoving/Moving.md)
     - [Полное перемещение](Manufacture/Cheese/PalletMoving/FullMoving.md)
     - [Частичное перемещение без перевзвешивания](Manufacture/Cheese/PalletMoving/PartMoving.md)
+    - [Создание "Заказа на перемещение"](Manufacture/Cheese/PalletMoving/MovingOrder.md)
+    - [Настройка кнопки "Перемещение по заказам"](Manufacture/Cheese/PalletMoving/SettingAccountingPointOrder.md)
+    - [Перемещение по заказу на перемещение](Manufacture/Cheese/PalletMoving/MovingWithOrderKiosk.md)
 - Учет в маслодельном цехе
     - [Учет поступления сливок в маслоцех](Manufacture/Cheese/AccountingTheDairyWorkshop/AccountingCreamInTheWorkshop/AccountingCreamInTheWorkshop.md)
     - [Задание на сбойку масла/спреда](Manufacture/Cheese/AccountingTheDairyWorkshop/OilSpreadBreakdownTask/OilSpreadBreakdownTask.md)
@@ -325,6 +328,9 @@
     - [Формирование упаковочного листа и перемещение](Manufacture/Meat/PalletMoving/Moving.md)
     - [Полное перемещение](Manufacture/Meat/PalletMoving/FullMoving.md)
     - [Частичное перемещение без перевзвешивания](Manufacture/Meat/PalletMoving/PartMoving.md)
+    - [Создание "Заказа на перемещение"](Manufacture/Meat/PalletMoving/MovingOrder.md)
+    - [Настройка кнопки "Перемещение по заказам"](Manufacture/Meat/PalletMoving/SettingAccountingPointOrder.md)
+    - [Перемещение по заказу на перемещение](Manufacture/Meat/PalletMoving/MovingWithOrderKiosk.md)
 - Убой
     - [Учет выхода полутуш](Manufacture/Meat/Livestock/HalfCarcassesOut.md)
     - [Учет выхода субпродуктов](Manufacture/Meat/Livestock/OffalOut.md)
