@@ -48,6 +48,14 @@
     - [НСИ](Manufacture/Cheese/CommonInformation/Handbooks/readme.md)
     - [Сценарии ведения учета](Manufacture/Cheese/CommonInformation/Functional/readme.md)
     - [Карантин](Manufacture/Cheese/CommonInformation/Quarantine/Quarantine.md)
+      - [Настройки карантина](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineSettings.md)
+      - [Признак постановки на карантин в анализах номенклатуры](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineNomenlatureAnalyses.md)
+      - [Автоматическое снятие с карантина](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineAutomaticWithdrawal.md)
+      - Документы карантина
+          - [Документ "Помещение на карантин"](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineDocuments/QuarantinedPremises.md)
+          - [Документ "Снятие с карантина"](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineDocuments/RemovalFromQuarantine.md)
+      - [Карантин при учетных операциях](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineDuringAccountingOperations.md)
+      - [Постановка и снятие с карантина вручную](Manufacture/Cheese/CommonInformation/Quarantine/QuarantineManually.md)
 - Приемка сырья
     - [Заполнение справочников](Manufacture/Cheese/MilkReceiving/DataFilling/readme.md)
     - [Учет лабораторных анализов сырья](Manufacture/Cheese/MilkReceiving/LaboratoryAnalysisOfMilk/LaboratoryAnalysisOfMilk.md)
@@ -170,6 +178,7 @@
     - [Создание "Заказа на перемещение"](Manufacture/Cheese/PalletMoving/MovingOrder.md)
     - [Настройка кнопки "Перемещение по заказам"](Manufacture/Cheese/PalletMoving/SettingAccountingPointOrder.md)
     - [Перемещение по заказу на перемещение](Manufacture/Cheese/PalletMoving/MovingWithOrderKiosk.md)
+    - [Отчет "Анализ перемещений со склада"](Manufacture/Cheese/PalletMoving/AnalysisMovementsWarehouse.md)
 - Учет в маслодельном цехе
     - [Учет поступления сливок в маслоцех](Manufacture/Cheese/AccountingTheDairyWorkshop/AccountingCreamInTheWorkshop/AccountingCreamInTheWorkshop.md)
     - [Задание на сбойку масла/спреда](Manufacture/Cheese/AccountingTheDairyWorkshop/OilSpreadBreakdownTask/OilSpreadBreakdownTask.md)
@@ -220,6 +229,14 @@
     - [НСИ](Manufacture/Milk/CommonInformation/Handbooks/readme.md)
     - [Сценарии ведения учета](Manufacture/Milk/CommonInformation/Functional/readme.md)
     - [Карантин](Manufacture/Milk/CommonInformation/Quarantine/Quarantine.md)
+      - [Настройки карантина](Manufacture/Milk/CommonInformation/Quarantine/QuarantineSettings.md)
+      - [Признак постановки на карантин в анализах номенклатуры](Manufacture/Milk/CommonInformation/Quarantine/QuarantineNomenlatureAnalyses.md)
+      - [Автоматическое снятие с карантина](Manufacture/Milk/CommonInformation/Quarantine/QuarantineAutomaticWithdrawal.md)
+      - Документы карантина
+          - [Документ "Помещение на карантин"](Manufacture/Milk/CommonInformation/Quarantine/QuarantineDocuments/QuarantinedPremises.md)
+          - [Документ "Снятие с карантина"](Manufacture/Milk/CommonInformation/Quarantine/QuarantineDocuments/RemovalFromQuarantine.md)
+      - [Карантин при учетных операциях](Manufacture/Milk/CommonInformation/Quarantine/QuarantineDuringAccountingOperations.md)
+      - [Постановка и снятие с карантина вручную](Manufacture/Milk/CommonInformation/Quarantine/QuarantineManually.md)
 - Приемка сырья
     - [Заполнение справочников](Manufacture/Milk/MilkReceiving/DataFilling/readme.md)
     - [Учет лабораторных анализов сырья](Manufacture/Milk/MilkReceiving/LaboratoryAnalysisOfMilk/LaboratoryAnalysisOfMilk.md)
@@ -301,14 +318,17 @@
 
 <h3> Мясное производство </h3>
 
-- [Карантин](Manufacture/Meat/CommonInformation/Quarantine/Quarantine.md)
-    - [Настройки карантина](Manufacture/Meat/CommonInformation/Quarantine/QuarantineSettings.md)
-    - [Признак постановки на карантин в анализах номенклатуры](Manufacture/Meat/CommonInformation/Quarantine/QuarantineNomenlatureAnalyses.md)
-    - [Автоматическое снятие с карантина](Manufacture/Meat/CommonInformation/Quarantine/QuarantineAutomaticWithdrawal.md)
-    - Документы карантина
-        - [Документ "Помещение на карантин"](Manufacture/Meat/CommonInformation/Quarantine/QuarantineDocuments/QuarantinedPremises.md)
-        - [Документ "Снятие с карантина"](Manufacture/Meat/CommonInformation/Quarantine/QuarantineDocuments/RemovalFromQuarantine.md)
-    - [Карантин при учетных операциях](Manufacture/Meat/CommonInformation/Quarantine/QuarantineDuringAccountingOperations.md)
+- Общая информация
+    - [НСИ](Manufacture/Meat/CommonInformation/Handbooks/readme.md)
+    - [Карантин](Manufacture/Meat/CommonInformation/Quarantine/Quarantine.md)
+        - [Настройки карантина](Manufacture/Meat/CommonInformation/Quarantine/QuarantineSettings.md)
+        - [Признак постановки на карантин в анализах номенклатуры](Manufacture/Meat/CommonInformation/Quarantine/QuarantineNomenlatureAnalyses.md)
+        - [Автоматическое снятие с карантина](Manufacture/Meat/CommonInformation/Quarantine/QuarantineAutomaticWithdrawal.md)
+        - Документы карантина
+            - [Документ "Помещение на карантин"](Manufacture/Meat/CommonInformation/Quarantine/QuarantineDocuments/QuarantinedPremises.md)
+            - [Документ "Снятие с карантина"](Manufacture/Meat/CommonInformation/Quarantine/QuarantineDocuments/RemovalFromQuarantine.md)
+        - [Карантин при учетных операциях](Manufacture/Meat/CommonInformation/Quarantine/QuarantineDuringAccountingOperations.md)
+	   - [Постановка и снятие с карантина вручную](Manufacture/Meat/CommonInformation/Quarantine/QuarantineManually.md)
 - Приемка сырья
     - [Создание плана поступлений](Manufacture/Meat/AcceptOfSpicesMeatVegetables/CreatePlanOfAccept.md)
     - [Приемка живого скота](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfLivestock.md)
@@ -331,6 +351,7 @@
     - [Создание "Заказа на перемещение"](Manufacture/Meat/PalletMoving/MovingOrder.md)
     - [Настройка кнопки "Перемещение по заказам"](Manufacture/Meat/PalletMoving/SettingAccountingPointOrder.md)
     - [Перемещение по заказу на перемещение](Manufacture/Meat/PalletMoving/MovingWithOrderKiosk.md)
+    - [Отчет "Анализ перемещений со склада"](Manufacture/Meat/PalletMoving/AnalysisMovementsWarehouse.md)
 - Убой
     - [Учет выхода полутуш](Manufacture/Meat/Livestock/HalfCarcassesOut.md)
     - [Учет выхода субпродуктов](Manufacture/Meat/Livestock/OffalOut.md)
