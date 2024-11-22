@@ -6,3 +6,4 @@
 - [Рабочие центры и склады](WorkCentresAndWarehouses/WorkCentresAndWarehouses.md)
 - [Шаблоны ресурсных спецификаций](TemplateOfResourceSpecifications/TemplateOfResourceSpecifications.md)
 - [Ресурсные спецификации](ResourceSpecifications/ResourceSpecifications.md)
+- [Дерево ресурсных спецификаций](ResourceSpecTree/ResourceSpecTree.md)
