@@ -11,7 +11,7 @@
 
 ![](LocationPackageLists.assets/1.png)
 ![](LocationPackageLists.assets/2.png)
-![](LocationPackageLists.assets/3.png)![alt text](image.png)
+![](LocationPackageLists.assets/3.png)
 
 ## Создаваемые документы
 
