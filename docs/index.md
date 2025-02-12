@@ -496,15 +496,25 @@
     - [Инвентаризация](Warehouse/AddressWarehouse/Inventar/PereschetNaTCD.md)
 - [Отчеты](Warehouse/AddressWarehouse/Otchot.md)
 
-<h3> Учет тары </h3>
+<h3> Учет и местонахождение упаковочных листов </h3>
 
-- [Учет тары](Warehouse/LocationOfContainers/LocationOfContainers.md)
-- [Настройка добавления функционала "Вести учет на таре"](Warehouse/LocationOfContainers/SettingsLocation.md)
-- Операции учета
-    - [Приемка готовой продукции с указанием тары](Warehouse/LocationOfContainers/ReceiptContainers.md)
-    - [Перемещение продукции с указанием тары](Warehouse/LocationOfContainers/MovingContainers.md)
-    - [Отгрузка готовой продукции с указанием тары](Warehouse/LocationOfContainers/ShipmentContainers.md)
-    - [Пересчет и Инвентаризация продукции с указанием тары](Warehouse/LocationOfContainers/InventoryContainers.md)
+- [Детальный учет по упаковочным листам](Warehouse/LocationOfContainers/LocationPackageLists.md)
+- [Паллетирование на ТСД](Warehouse/LocationOfContainers/NewPalletMaking.md)
+- Приемка на склад
+    - [Приемка на ТСД](Warehouse/LocationOfContainers/RecievePL/ReceiptTSD.md)
+    - [Приемка на ПК](Warehouse/LocationOfContainers/RecievePL/ReceiptPC.md)
+    - [Приемка на киоске (по накладным)](Warehouse/LocationOfContainers/RecievePL/ReceiptDocs.md)
+- Перемещение
+    - [Перемещение на ТСД по типу Размещение](Warehouse/LocationOfContainers/MovingPL/MovingPlacement.md)
+    - [Перемещение на ТСД по типу Перемещение](Warehouse/LocationOfContainers/MovingPL/Moving.md)
+    - [Перемещение на ТСД по типу Пересчет](Warehouse/LocationOfContainers/MovingPL/MovingRecount.md)
+    - [Перемещение на ТСД по типу Отбор](Warehouse/LocationOfContainers/MovingPL/MovingSelection.md)
+- Отгрузка со склада
+    - [Отгрузка на ТСД](Warehouse/LocationOfContainers/ShipmentPL/ShipmentTSD.md)
+
+<h3> Пересчет и Инвентаризация продукции с указанием тары </h3>
+
+- [Пересчет и Инвентаризация продукции с указанием тары](Warehouse/InventoryContainers/InventoryContainers.md)
 
 <h2> Маркировка </h2>
 

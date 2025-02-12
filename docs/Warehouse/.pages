@@ -3,3 +3,5 @@ collapse: false
 arrange:
     - SimpleWarehouse
     - AddressWarehouse
+    - LocationOfContainers
+    - InventoryContainers

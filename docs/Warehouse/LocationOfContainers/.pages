@@ -1,9 +1,8 @@
-title: Учет и местонахождение тары по штрихкоду
+title: Учет и местонахождение упаковочных листов
 collapse: false
 arrange:
-    - LocationOfContainers.md
-    - SettingsLocation.md
-    - ReceiptContainers.md
-    - MovingContainers.md
-    - ShipmentContainers.md
-    - InventoryContainers.md
+    - LocationPackageLists.md
+    - NewPalletMaking.md
+    - RecievePL
+    - MovingPL
+    - ShipmentPL

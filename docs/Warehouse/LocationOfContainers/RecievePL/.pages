@@ -1,0 +1,5 @@
+title: Приемка на склад
+arrange:
+    - ReceiptTSD.md
+    - ReceiptPC.md
+    - ReceiptDocs.md
