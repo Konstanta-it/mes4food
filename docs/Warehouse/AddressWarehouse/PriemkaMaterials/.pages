@@ -1,0 +1,6 @@
+title: Приемка сырья и материалов по накладным
+collapse: false
+arrange:
+    - CreatePlanOfAccept.md
+    - SettingsKUT.md
+    - PriemkaTSD.md

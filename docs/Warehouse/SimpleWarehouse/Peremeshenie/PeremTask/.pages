@@ -1,0 +1,7 @@
+title: Перемещение сырья по заказам на перемещение (ТСД)
+collapse: false
+arrange: 
+    - MovingOrder.md
+    - SettingAccountingPointOrderTSD.md
+    - MovingWithOrderTSD.md
+    - AnalysisTaskMovement.md

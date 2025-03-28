@@ -1,0 +1,7 @@
+title: Перемещение сырья по заказам на перемещение
+collapse: false
+arrange: 
+    - MovingOrder.md
+    - PeremTaskKiosk
+    - PeremTaskTSD
+    - AnalysisTaskMovement.md

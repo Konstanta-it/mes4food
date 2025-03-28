@@ -1,0 +1,7 @@
+title: Перемещение сырья на киоске
+collapse: false
+arrange:
+    - SettingAccountingPoint.md
+    - Moving.md
+    - FullMoving.md
+    - PartMoving.md

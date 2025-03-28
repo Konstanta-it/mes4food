@@ -1,0 +1,5 @@
+title: Перемещение сырья по заказу на перемещение (киоск)
+collapse: false
+arrange: 
+    - SettingAccountingPointOrder.md
+    - MovingWithOrderKiosk.md

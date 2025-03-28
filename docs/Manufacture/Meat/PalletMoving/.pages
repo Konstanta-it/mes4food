@@ -1,11 +1,6 @@
 title: Перемещение сырья
 collapse: false
 arrange: 
-    - SettingAccountingPoint.md
-    - Moving.md
-    - FullMoving.md
-    - PartMoving.md
-    - MovingOrder.md
-    - SettingAccountingPointOrder.md
-    - MovingWithOrderKiosk.md
+    - PeremKiosk
+    - PeremTask
     - AnalysisMovementsWarehouse.md

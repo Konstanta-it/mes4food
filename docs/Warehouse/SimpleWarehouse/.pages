@@ -3,6 +3,7 @@ collapse: false
 arrange:
     - Paletirovanie.md
     - Priemka
+    - PriemkaMaterials
     - Peremeshenie
     - Otgruzka
     - Inventar.md

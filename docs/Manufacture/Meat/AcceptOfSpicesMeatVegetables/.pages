@@ -1,7 +1,9 @@
 title: Приемка сырья
 arrange:
     - CreatePlanOfAccept.md
+    - SettingsKUT.md
     - AcceptOfLivestock.md
     - AcceptOfSpicesMeat.md
     - AcceptOfHalfCarcass.md
     - Rejection.md
+    - PriemkaTSD.md

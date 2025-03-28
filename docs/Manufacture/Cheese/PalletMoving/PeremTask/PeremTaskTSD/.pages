@@ -1,0 +1,4 @@
+title: Перемещение сырья по заказу на перемещение (ТСД)
+collapse: false
+arrange: 
+    - MovingWithOrderTSD.md

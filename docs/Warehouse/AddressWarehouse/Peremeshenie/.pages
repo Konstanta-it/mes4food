@@ -3,4 +3,5 @@ collapse: false
 arrange:
     - NastroikaKnopkiPeremeshenie.md
     - PeremeshenieMegduSkladamiNaTCD.md
+    - PeremTask
     

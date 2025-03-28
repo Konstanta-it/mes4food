@@ -171,13 +171,19 @@
         - [Общая информация](Manufacture/Cheese/ProcessedCheese/PackingInPalletsTransferToGP/PackingInPalletsTransferToGP.md)
         - [Паллетирование коробов](Manufacture/Cheese/ProcessedCheese/PackingInPalletsTransferToGP/PalletizingBoxes/PalletizingBoxes.md)
 - Перемещение сырья
-    - [Настройка кнопки "Перемещение"](Manufacture/Cheese/PalletMoving/SettingAccountingPoint.md)
-    - [Формирование упаковочного листа и перемещение](Manufacture/Cheese/PalletMoving/Moving.md)
-    - [Полное перемещение](Manufacture/Cheese/PalletMoving/FullMoving.md)
-    - [Частичное перемещение без перевзвешивания](Manufacture/Cheese/PalletMoving/PartMoving.md)
-    - [Создание "Заказа на перемещение"](Manufacture/Cheese/PalletMoving/MovingOrder.md)
-    - [Настройка кнопки "Перемещение по заказам"](Manufacture/Cheese/PalletMoving/SettingAccountingPointOrder.md)
-    - [Перемещение по заказу на перемещение](Manufacture/Cheese/PalletMoving/MovingWithOrderKiosk.md)
+    - Перемещение сырья на киоске
+        - [Настройка кнопки "Перемещение"](Manufacture/Cheese/PalletMoving/PeremKiosk/SettingAccountingPoint.md)
+        - [Формирование упаковочного листа и перемещение](Manufacture/Cheese/PalletMoving/PeremKiosk/Moving.md)
+        - [Полное перемещение](Manufacture/Cheese/PalletMoving/PeremKiosk/FullMoving.md)
+        - [Частичное перемещение без перевзвешивания](Manufacture/Cheese/PalletMoving/PeremKiosk/PartMoving.md)
+    - Перемещение сырья по заказам на перемещение 
+        - [Создание "Заказа на перемещение"](Manufacture/Cheese/PalletMoving/PeremTask/MovingOrder.md)
+        - Перемещение сырья по заказу на перемещение (киоск)
+            - [Настройка кнопки "Перемещение по заказам"](Manufacture/Cheese/PalletMoving/PeremTask/PeremTaskKiosk/SettingAccountingPointOrder.md)
+            - [Перемещение по заказу на перемещение](Manufacture/Cheese/PalletMoving/PeremTask/PeremTaskKiosk/MovingWithOrderKiosk.md)
+        - Перемещение сырья по заказу на перемещение (ТСД)
+            - [Перемещение по заказу на перемещение (ТСД)](Manufacture/Cheese/PalletMoving/PeremTask/PeremTaskTSD/MovingWithOrderTSD.md)
+        - [Анализ выполнения заказов на перемещения](Manufacture/Cheese/PalletMoving/PeremTask/AnalysisTaskMovement.md)
     - [Отчет "Анализ перемещений со склада"](Manufacture/Cheese/PalletMoving/AnalysisMovementsWarehouse.md)
 - Учет в маслодельном цехе
     - [Учет поступления сливок в маслоцех](Manufacture/Cheese/AccountingTheDairyWorkshop/AccountingCreamInTheWorkshop/AccountingCreamInTheWorkshop.md)
@@ -344,13 +350,19 @@
     - [Смешивание в мясопереработке ТСД](Manufacture/Meat/Preparation/MixingInMeatProcessingTsd.md)
     - [Объединение партий сырья/полуфабрикатов](Manufacture/Meat/Preparation/%D0%A1onsolidationOfBatches.md)
 - Перемещение сырья
-    - [Настройка кнопки "Перемещение"](Manufacture/Meat/PalletMoving/SettingAccountingPoint.md)
-    - [Формирование упаковочного листа и перемещение](Manufacture/Meat/PalletMoving/Moving.md)
-    - [Полное перемещение](Manufacture/Meat/PalletMoving/FullMoving.md)
-    - [Частичное перемещение без перевзвешивания](Manufacture/Meat/PalletMoving/PartMoving.md)
-    - [Создание "Заказа на перемещение"](Manufacture/Meat/PalletMoving/MovingOrder.md)
-    - [Настройка кнопки "Перемещение по заказам"](Manufacture/Meat/PalletMoving/SettingAccountingPointOrder.md)
-    - [Перемещение по заказу на перемещение](Manufacture/Meat/PalletMoving/MovingWithOrderKiosk.md)
+    - Перемещение сырья на киоске
+        - [Настройка кнопки "Перемещение"](Manufacture/Meat/PalletMoving/PeremKiosk/SettingAccountingPoint.md)
+        - [Формирование упаковочного листа и перемещение](Manufacture/Meat/PalletMoving/PeremKiosk/Moving.md)
+        - [Полное перемещение](Manufacture/Meat/PalletMoving/PeremKiosk/FullMoving.md)
+        - [Частичное перемещение без перевзвешивания](Manufacture/Meat/PalletMoving/PeremKiosk/PartMoving.md)
+    - Перемещение сырья по заказам на перемещение 
+        - [Создание "Заказа на перемещение"](Manufacture/Meat/PalletMoving/PeremTask/MovingOrder.md)
+        - Перемещение сырья по заказу на перемещение (киоск)
+            - [Настройка кнопки "Перемещение по заказам"](Manufacture/Meat/PalletMoving/PeremTask/PeremTaskKiosk/SettingAccountingPointOrder.md)
+            - [Перемещение по заказу на перемещение](Manufacture/Meat/PalletMoving/PeremTask/PeremTaskKiosk/MovingWithOrderKiosk.md)
+        - Перемещение сырья по заказу на перемещение (ТСД)
+            - [Перемещение по заказу на перемещение (ТСД)](Manufacture/Meat/PalletMoving/PeremTask/PeremTaskTSD/MovingWithOrderTSD.md)
+        - [Анализ выполнения заказов на перемещения](Manufacture/Meat/PalletMoving/PeremTask/AnalysisTaskMovement.md)
     - [Отчет "Анализ перемещений со склада"](Manufacture/Meat/PalletMoving/AnalysisMovementsWarehouse.md)
 - Убой
     - [Учет выхода полутуш](Manufacture/Meat/Livestock/HalfCarcassesOut.md)
@@ -456,6 +468,11 @@
     - [Создание и настройка кнопки "Перемещение"](Warehouse/SimpleWarehouse/Peremeshenie/NastroikaKnopkiPeremeshenie.md)
     - [Создание документа "Распоряжение на перемещение"](Warehouse/SimpleWarehouse/Peremeshenie/CozdanieRasporygeniyNaPeremeshenie.md)
     - [Перемещение между складами на ТСД](Warehouse/SimpleWarehouse/Peremeshenie/PeremeshenieMegduSkladamiNaTCD.md)
+    - Перемещение сырья по заказам на перемещение (ТСД)
+        - [Создание "Заказа на пермещение"](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/MovingOrder.md)
+        - [Настройка кнопки "Перемещение по заказам ТСД"](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/SettingAccountingPointOrderTSD.md)
+        - [Перемещение по заказу на перемещение (ТСД)](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/MovingWithOrderTSD.md)
+        - [Анализ выполнения заказов на перемещение](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/AnalysisTaskMovement.md)
 - Отгрузка готовой продукции
     - [Отгрузка готовой продукции без упаковочного листа](Warehouse/SimpleWarehouse/Otgruzka/ARMOtgruzka.md)
     - Отгрузка готовой продукции в упаковочном листе
@@ -474,6 +491,11 @@
 - Перемещение между складами
     - [Создание и настройка кнопки "Перемещение на ячейку отгрузки" и "Перемещение м/д складами](Warehouse/AddressWarehouse/Peremeshenie/NastroikaKnopkiPeremeshenie.md)
     - [Перемещение между складами на ТСД](Warehouse/AddressWarehouse/Peremeshenie/PeremeshenieMegduSkladamiNaTCD.md)
+    - Перемещение сырья по заказам на перемещение (ТСД)
+        - [Создание "Заказа на пермещение"](Warehouse/AddressWarehouse/Peremeshenie/PeremTask/MovingOrder.md)
+        - [Настройка кнопки "Перемещение по заказам ТСД"](Warehouse/AddressWarehouse/Peremeshenie/PeremTask/SettingAccountingPointOrderTSD.md)
+        - [Перемещение по заказу на перемещение (ТСД)](Warehouse/AddressWarehouse/Peremeshenie/PeremTask/MovingWithOrderTSD.md)
+        - [Анализ выполнения заказов на перемещение](Warehouse/AddressWarehouse/Peremeshenie/PeremTask/AnalysisTaskMovement.md)
 - Внутрискладские операции
     - Перемещение внутри склада
         - [Создание и настройка кнопки "Перемещение внутри склада"](Warehouse/AddressWarehouse/VnutriskladskieOper/PeremNaSklade/NastroikaKnopokPerem.md)
