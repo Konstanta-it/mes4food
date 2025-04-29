@@ -338,7 +338,8 @@
 - Приемка сырья
     - [Создание плана поступлений](Manufacture/Meat/AcceptOfSpicesMeatVegetables/CreatePlanOfAccept.md)
     - [Приемка живого скота](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfLivestock.md)
-    - [Приемка кусков, специй, овощей](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfSpicesMeat.md)
+    - [Приемка кусков](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfPieceMeat.md)
+    - [Приемка специй и овощей](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfSpicesMeat.md)
     - [Приемка полутуш](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfHalfCarcass.md)
     - [Отбраковка при приемке](Manufacture/Meat/AcceptOfSpicesMeatVegetables/Rejection.md)
 - Подготовка сырья
