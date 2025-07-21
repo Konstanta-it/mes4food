@@ -342,6 +342,7 @@
     - [Приемка специй и овощей](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfSpicesMeat.md)
     - [Приемка полутуш](Manufacture/Meat/AcceptOfSpicesMeatVegetables/AcceptOfHalfCarcass.md)
     - [Отбраковка при приемке](Manufacture/Meat/AcceptOfSpicesMeatVegetables/Rejection.md)
+    - [Акты расхождений](Manufacture/Meat/AcceptOfSpicesMeatVegetables/ActsOfDiscrepancy.md)
 - Подготовка сырья
     - [Растарка](Manufacture/Meat/Preparation/Unstuffing.md)
     - [Учет заморозки](Manufacture/Meat/Preparation/Freezing.md)
@@ -412,6 +413,7 @@
         - [Анализ участка убоя](Manufacture/Meat/ControlOfShiftResults/Reports/AnalysisOfLivestock.md)
         - [Анализ участка обвалки/разделки](Manufacture/Meat/ControlOfShiftResults/Reports/DeboningAnalysis.md)
         - [Прослеживаемость партий](Manufacture/Meat/ControlOfShiftResults/Reports/BatchTraceability.md)
+        - [Контроль времени этапов производства](Manufacture/Meat/ControlOfShiftResults/Reports/ProductsTimeControl.md)
 - Обмен данными с OPC/SCADA
     - [Общая информация](Manufacture/Meat/OPCDataExchange/index.md)
     - Настройки системы для обмена
@@ -421,6 +423,12 @@
         - [Настройка кнопок учетных точек](Manufacture/Meat/OPCDataExchange/SystemSetting/SettingButtonsOfAccountPoint.md)
     - [Получение значений с датчиков на киоске](Manufacture/Meat/OPCDataExchange/ThermalTreatment.md)
     - [Мониторинг данных датчиков](Manufacture/Meat/OPCDataExchange/Monitoring.md)
+
+<h3> Аналитика </h3>
+
+- [Монитор ключевых показателей](Manufacture/Analytics/KeyPerformanceMonitor/KeyPerformanceMonitor.md)
+- [Настройки монитора ключевых показателей](Manufacture/Analytics/KPMonitorSettings/KPMonitorSettings.md)
+- [Описание работы с Монитором ключевых показателей](Manufacture/Analytics/KPMonitorFunctions/KPMonitorFunctions.md)
 
 <h2> Планирование по рабочим центрам </h2>
 
@@ -538,6 +546,12 @@
 <h3> Пересчет и Инвентаризация продукции с указанием тары </h3>
 
 - [Пересчет и Инвентаризация продукции с указанием тары](Warehouse/InventoryContainers/InventoryContainers.md)
+
+<h3> Аналитика </h3>
+
+- [Монитор ключевых показателей](Warehouse/Analytics/KeyPerformanceMonitor/KeyPerformanceMonitor.md)
+- [Настройки монитора ключевых показателей](Warehouse/Analytics/KPMonitorSettings/KPMonitorSettings.md)
+- [Описание работы с Монитором ключевых показателей](Warehouse/Analytics/KPMonitorFunctions/KPMonitorFunctions.md)
 
 <h2> Маркировка </h2>
 

@@ -5,3 +5,4 @@ arrange:
     - AddressWarehouse
     - LocationOfContainers
     - InventoryContainers
+    - Analytics

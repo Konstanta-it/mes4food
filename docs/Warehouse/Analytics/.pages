@@ -1,0 +1,6 @@
+title: Аналитика
+collapse: false
+arrange:
+    - KeyPerformanceMonitor
+    - KPMonitorSettings
+    - KPMonitorFunctions
