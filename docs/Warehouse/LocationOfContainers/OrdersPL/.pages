@@ -1,0 +1,5 @@
+title: Передача и приемка сырья по заказам на перемещение
+arrange:
+    - OrdersPLSettings.md
+    - TransferPL.md
+    - AcceptancePL.md

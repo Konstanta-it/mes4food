@@ -3,6 +3,8 @@ collapse: false
 arrange:
     - LocationPackageLists.md
     - NewPalletMaking.md
+    - PalletFragmentation
     - RecievePL
     - MovingPL
     - ShipmentPL
+    - OrdersPL

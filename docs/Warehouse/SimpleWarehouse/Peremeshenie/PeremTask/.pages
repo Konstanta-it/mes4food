@@ -2,6 +2,5 @@ title: Перемещение сырья по заказам на перемещ
 collapse: false
 arrange: 
     - MovingOrder.md
-    - SettingAccountingPointOrderTSD.md
     - MovingWithOrderTSD.md
     - AnalysisTaskMovement.md
