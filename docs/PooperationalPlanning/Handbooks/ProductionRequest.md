@@ -16,7 +16,7 @@
     - Порядок;
 - Нажать **"Записать и закрыть"**.
 
-![](ProductionRequest.assets/image.png)
+![](ProductionRequest.assets/1.png)
 ![](ProductionRequest.assets/image-1.png)
 ![](ProductionRequest.assets/image-2.png)
 
@@ -27,7 +27,7 @@
 - Перейти в раздел Планирование, открыть справочник **"Заявки на производство"**;
 - Приступить к созданию новой заявки;
 
-![](ProductionRequest.assets/image-3.png)
+![](ProductionRequest.assets/4.png)
 
 На вкладке "Основное" заполняются:
 

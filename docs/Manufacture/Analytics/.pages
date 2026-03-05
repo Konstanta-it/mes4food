@@ -4,3 +4,4 @@ arrange:
     - KeyPerformanceMonitor
     - KPMonitorSettings
     - KPMonitorFunctions
+    - OEE

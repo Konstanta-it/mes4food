@@ -1,0 +1,8 @@
+title: Общая эффективность оборудования 
+collapse: false
+arrange:
+    - OEE.md
+    - ARM.md
+    - WorkingWithTasks.md
+    - CausesOfEquipmentDowntime.md
+    - Reports

@@ -398,7 +398,7 @@
     - [Набор комплектов мясного сырья](Manufacture/Meat/SausageProduction/SetOfMeatSets.md)
     - [Создание производственного задания на фаршесоставление (куттерирование)](Manufacture/Meat/SausageProduction/CreateTaskForAMinsedMeat.md)
     - [Фаршесоставление (куттерирование)](Manufacture/Meat/SausageProduction/MincedMeat.md)
-    - [Учет созревания](Manufacture/Meat/SausageProduction/Maturation)
+    - [Учет созревания](Manufacture/Meat/SausageProduction/Maturation.md)
     - [Создание производственного задания на формовку колбасной продукции](Manufacture/Meat/SausageProduction/CreateTaskForAMolding.md)
     - [Формовка по заданию](Manufacture/Meat/SausageProduction/MoldingOnRequest.md)
     - [Термообработка](Manufacture/Meat/SausageProduction/HeatTreatment.md)
@@ -429,6 +429,7 @@
 - [Монитор ключевых показателей](Manufacture/Analytics/KeyPerformanceMonitor/KeyPerformanceMonitor.md)
 - [Настройки монитора ключевых показателей](Manufacture/Analytics/KPMonitorSettings/KPMonitorSettings.md)
 - [Описание работы с Монитором ключевых показателей](Manufacture/Analytics/KPMonitorFunctions/KPMonitorFunctions.md)
+- [Общая эффективность оборудования](Manufacture/Analytics/OEE/OEE.md)
 
 <h2> Планирование по рабочим центрам </h2>
 
@@ -450,6 +451,9 @@
     - [Результаты планирования](PooperationalPlanning/WorkWithPP/PlanResults.md)
     - [Создание производственных заданий](PooperationalPlanning/WorkWithPP/CreateWorkTasks.md)
     - [Распространенные ошибки при планировании](PooperationalPlanning/WorkWithPP/FAQ.md)
+- Работа с АРМом "Обеспечение заявок на производство"
+    - [Настройка АРМа "Обеспечение заявок на производство"](PooperationalPlanning/ApplicationsForProduction/SettingsApplicationsForProduction/SettingsApplicationsForProduction.md)
+    - [Работа с АРМом "Обеспечение заявок на производство"](PooperationalPlanning/ApplicationsForProduction/ARMApplicationsForProduction/ARMApplicationsForProduction.md)
 
 <h2> Микробиология </h2>
 
@@ -479,7 +483,6 @@
     - [Перемещение между складами на ТСД](Warehouse/SimpleWarehouse/Peremeshenie/PeremeshenieMegduSkladamiNaTCD.md)
     - Перемещение сырья по заказам на перемещение (ТСД)
         - [Создание "Заказа на пермещение"](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/MovingOrder.md)
-        - [Настройка кнопки "Перемещение по заказам ТСД"](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/SettingAccountingPointOrderTSD.md)
         - [Перемещение по заказу на перемещение (ТСД)](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/MovingWithOrderTSD.md)
         - [Анализ выполнения заказов на перемещение](Warehouse/SimpleWarehouse/Peremeshenie/PeremTask/AnalysisTaskMovement.md)
 - Отгрузка готовой продукции
